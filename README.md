@@ -99,13 +99,10 @@ churn-prediction-dev/
 │   └── app.py
 ├── data/                # sample CSV or generator script
 ├── models/              # saved LSTM & XGBoost models (gitignored)
-├── scripts/             # helper bash scripts
-│   ├── predict.sh
 ├── Dockerfile           # container definition
 ├── requirements.txt     # Python dependencies
 ├── run_docker.sh        # helper Docker script
-├── predict.sh   # helper API test script
-└── run_docker.sh
+├── predict.sh           # helper prediction script
 ├── .gitignore
 └── README.md
 ```

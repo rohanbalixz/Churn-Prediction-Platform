@@ -101,11 +101,11 @@ churn-prediction-dev/
 ├── models/              # saved LSTM & XGBoost models (gitignored)
 ├── scripts/             # helper bash scripts
 │   ├── predict.sh
-│   └── run_docker.sh
 ├── Dockerfile           # container definition
 ├── requirements.txt     # Python dependencies
 ├── run_docker.sh        # helper Docker script
-├── scripts/predict.sh   # helper API test script
+├── predict.sh   # helper API test script
+└── run_docker.sh
 ├── .gitignore
 └── README.md
 ```

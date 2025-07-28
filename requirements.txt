@@ -1,0 +1,12 @@
+delta-spark
+pyspark
+fastapi
+uvicorn
+xgboost
+tensorflow
+pandas
+numpy
+scikit-learn
+pyarrow
+fastparquet
+requests
